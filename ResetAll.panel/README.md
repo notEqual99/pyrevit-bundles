@@ -1,2 +1,2 @@
 # Reset overrides pushbutton
-This tools is use to reset all overrides include line and color weights, surface patterns and fill colors, coarse scale fill colors and transparency in the active view by selected categories you choose. Use it when you get model from others designer and want to remove previous overrides  
+This tools is use to reset all overrides include line and color weights, surface patterns and fill colors, coarse scale fill colors and transparency in the active view by selected categories you choose. Use it when you get model from others designer and want to remove previous overrides   

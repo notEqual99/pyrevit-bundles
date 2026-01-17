@@ -4,7 +4,7 @@ Resets graphic overrides (VV/VG) for selected categories in the active view,
 including coarse scale fill colors.
 """
 __title__ = 'Reset\nOverrides'
-__author__ = 'Your Name'
+__author__ = 'Phyo Pyae Zaw'
 
 from pyrevit import revit, script, forms
 from pyrevit import DB
